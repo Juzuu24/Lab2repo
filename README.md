@@ -1,9 +1,10 @@
+
 Markdown Cheatsheet<a name="TOP"></a>
 Nang Shu Shan Na 662115511
-===================
 
 
-- - - - 
+
+
 # Heading 1 #
 
 
@@ -207,3 +208,6 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 
+=======
+NangShuShanNa 662115511
+>>>>>>> origin/Nang
